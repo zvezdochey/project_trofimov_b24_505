@@ -1,0 +1,6 @@
+#!/home/zvezdochey/project_trofimov_b24_505/.venv/bin/python
+import sys
+from project_func.scripts.main_base import main
+
+if __name__ == '__main__':
+    sys.exit(main())
